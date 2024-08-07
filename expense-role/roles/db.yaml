@@ -1,0 +1,5 @@
+- name: insatll db 
+  hsots: db
+  become: yes
+  - roles
+    db

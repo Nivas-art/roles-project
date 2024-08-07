@@ -1,0 +1,8 @@
+[db]
+172.31.42.20
+
+[inventory]
+inventory
+
+[all:vars]
+ansible_password:DevOps321
